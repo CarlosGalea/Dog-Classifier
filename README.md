@@ -4,5 +4,5 @@ In this project, you will learn how to build a pipeline to process real-world, u
 
 # Instructions
 
-1. Clone the project from the GitHub repository. Follow the instructions in the README to download the required human and dog datasets to complete this project.
+1. Clone the project from the GitHub (repository)[link=https://github.com/udacity/deep-learning-v2-pytorch/tree/master/project-dog-classification]. Follow the instructions in the README to download the required human and dog datasets to complete this project.
 2. Download this repo and run the ipynb file.
